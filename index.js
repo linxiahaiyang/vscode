@@ -1,2 +1,3 @@
 console.log();
 alert();
+first();
